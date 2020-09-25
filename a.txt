@@ -1,0 +1,201 @@
+NumOfWindows 2
+WindowBegin
+  Position 0 0
+  Size 243 102
+  NumOfButtons 14
+  ButtonBegin
+    Position 0 0
+    Size 106 34
+    Name new
+  ButtonEnd
+  ButtonBegin
+    Position 0 34
+    Size 106 34
+    Name open
+  ButtonEnd
+  ButtonBegin
+    Position 0 68
+    Size 106 34
+    Name save
+  ButtonEnd
+  ButtonBegin
+    Position 106 0
+    Size 34 34
+    Name rect
+  ButtonEnd
+ButtonBegin
+    Position 106 34
+    Size 34 34
+    Name circle
+  ButtonEnd
+ButtonBegin
+    Position 106 68
+    Size 34 34
+    Name line
+  ButtonEnd
+ButtonBegin
+    Position 140 0
+    Size 34 34
+    Name pen
+  ButtonEnd
+ButtonBegin
+    Position 140 34
+    Size 34 34
+    Name brush
+  ButtonEnd
+ButtonBegin
+    Position 140 68
+    Size 34 34
+    Name eraser
+  ButtonEnd
+ButtonBegin
+    Position 174 0
+    Size 34 34
+    Name big
+  ButtonEnd
+ButtonBegin
+    Position 174 34
+    Size 34 34
+    Name medium
+  ButtonEnd
+ButtonBegin
+    Position 174 68
+    Size 34 34
+    Name small
+  ButtonEnd
+ButtonBegin
+    Position 208 0
+    Size 35 51
+    Name plus
+  ButtonEnd
+ButtonBegin
+    Position 208 51
+    Size 35 51
+    Name minus
+  ButtonEnd
+WindowEnd
+WindowBegin
+  Position 260 0
+  Size 132 88
+  NumOfButtons 24
+  ButtonBegin
+    Position 260 0
+    Size 22 22
+    Name c00
+  ButtonEnd
+  ButtonBegin
+    Position 260 22
+    Size 22 22
+    Name c01
+  ButtonEnd
+  ButtonBegin
+    Position 260 44
+    Size 22 22
+    Name c02
+  ButtonEnd
+  ButtonBegin
+    Position 260 66
+    Size 22 22
+    Name c03
+  ButtonEnd
+  ButtonBegin
+    Position 282 0
+    Size 22 22
+    Name c10
+  ButtonEnd
+  ButtonBegin
+    Position 282 22
+    Size 22 22
+    Name c11
+  ButtonEnd
+  ButtonBegin
+    Position 282 44
+    Size 22 22
+    Name c12
+  ButtonEnd
+  ButtonBegin
+    Position 282 66
+    Size 22 22
+    Name c13
+  ButtonEnd
+  ButtonBegin
+    Position 304 0
+    Size 22 22
+    Name c20
+  ButtonEnd
+  ButtonBegin
+    Position 304 22
+    Size 22 22
+    Name c21
+  ButtonEnd
+  ButtonBegin
+    Position 304 44
+    Size 22 22
+    Name c22
+  ButtonEnd
+  ButtonBegin
+    Position 304 66
+    Size 22 22
+    Name c23
+  ButtonEnd
+  ButtonBegin
+    Position 326 0
+    Size 22 22
+    Name c30
+  ButtonEnd
+  ButtonBegin
+    Position 326 22
+    Size 22 22
+    Name c31
+  ButtonEnd
+  ButtonBegin
+    Position 326 44
+    Size 22 22
+    Name c32
+  ButtonEnd
+  ButtonBegin
+    Position 326 66
+    Size 22 22
+    Name c33
+  ButtonEnd
+  ButtonBegin
+    Position 348 0
+    Size 22 22
+    Name c40
+  ButtonEnd
+  ButtonBegin
+    Position 348 22
+    Size 22 22
+    Name c41
+  ButtonEnd
+  ButtonBegin
+    Position 348 44
+    Size 22 22
+    Name c42
+  ButtonEnd
+  ButtonBegin
+    Position 348 66
+    Size 22 22
+    Name c43
+  ButtonEnd
+  ButtonBegin
+    Position 370 0
+    Size 22 22
+    Name c50
+  ButtonEnd
+  ButtonBegin
+    Position 370 22
+    Size 22 22
+    Name c51
+  ButtonEnd
+  ButtonBegin
+    Position 370 44
+    Size 22 22
+    Name c52
+  ButtonEnd
+  ButtonBegin
+    Position 370 66
+    Size 22 22
+    Name c53
+  ButtonEnd
+WindowEnd
